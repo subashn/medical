@@ -5,7 +5,7 @@
   <groupId>com.keste.medical</groupId>
   <artifactId>medical</artifactId>
   <version>1.0-SNAPSHOT</version>
-  <packaging>jar</packaging>
+  <packaging>war</packaging>
 
   <name>medical</name>
   <url>http://maven.apache.org</url>
